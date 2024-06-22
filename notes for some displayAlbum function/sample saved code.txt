@@ -1,0 +1,32 @@
+<span> 
+
+
+ </span>   
+style.css
+<link> src="" </link>
+
+int[] arr = {1,5,2.6,2,9,8,4};
+int min = Integer.MIN_VALUE;
+
+int left = 0;
+int right = arr.length - 1;
+
+while(left <= right) {
+int mid = (left + right)/2;
+if(arr[mid]<min) {
+  left = mid + 1;
+}else if(arr[mid] == min) {
+return mid;
+}else{
+high = mid - 1;
+}
+
+return min;
+
+b = b+a;
+a = b-a;
+b = b-a;
+
+
+
+

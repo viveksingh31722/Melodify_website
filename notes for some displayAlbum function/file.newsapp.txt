@@ -1,0 +1,9 @@
+implementation 'org.jetbrains.kotlin:kotlin-stdlib:1.8.10'
+ implementation 'com.google.android.material:material:1.9.0'
+
+ <color name="purple_500">#800080</color>
+   <color name="purple_700">#4B0082</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="purple_200">#XXXXXX</color>
